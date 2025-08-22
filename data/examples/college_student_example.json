@@ -1,0 +1,37 @@
+{
+  "persona": "college_student",
+  "query": "Plan a side hustle I can start with no money",
+  "expected_response_format": {
+    "summary": "A comprehensive plan for starting a side hustle with zero initial investment",
+    "action_items": [
+      {
+        "step": "1",
+        "action": "Identify your skills and interests",
+        "time_required": "2-3 hours",
+        "cost": "Free",
+        "resources": ["Skills assessment tools", "Interest inventory"]
+      },
+      {
+        "step": "2", 
+        "action": "Research online freelancing platforms",
+        "time_required": "4-5 hours",
+        "cost": "Free",
+        "resources": ["Upwork", "Fiverr", "Freelancer.com"]
+      },
+      {
+        "step": "3",
+        "action": "Create a professional profile",
+        "time_required": "3-4 hours", 
+        "cost": "Free",
+        "resources": ["Portfolio templates", "Profile writing guides"]
+      }
+    ],
+    "timeline": "2-3 weeks to get started",
+    "tips": [
+      "Start with small projects to build reputation",
+      "Use free tools and resources available online",
+      "Network with other students and professionals"
+    ],
+    "next_steps": "Apply for your first 3-5 projects and start building your portfolio"
+  }
+}

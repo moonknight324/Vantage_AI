@@ -36,4 +36,3 @@ Behind the scenes, Vantage AI uses:
 - 🌐 Web search + PDF/document RAG
 - 🔗 External tool integration (e.g., Notion, Trello, Google Calendar)
 - 💾 Save/export structured outputs
-
